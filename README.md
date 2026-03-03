@@ -1,8 +1,10 @@
 # College-Games
+
 This repository showcases a curated collection of games I developed throughout my college journey. Each project reflects a different stage of my evolution as a game developer, demonstrating not only technical growth but also increasing maturity in design thinking, creativity, and problem-solving.
 Over the course of these projects, I explored a wide range of gameplay concepts, mechanics, and systems. From small experimental prototypes to more structured academic assignments, each game represents a pratical application of core development principles and interative improvement.
 
 Development Focus
+
 Throughout these projects, I worked on:
 * Gameplay programming and core mechanics implementation
 * Object-oriented design and clean code structure
@@ -23,4 +25,5 @@ What You´ll Find:
 * Academic Game Development projects
 
 Purpose of This Repository:
+
 The purpose of this repository is to document my Academic Development, Demonstrate my technical capabilities, and showcase my passion for game development. It serves both as a learning archive and as a portfolio piece for recruiters. Each project reflects continous improvement, curiosity, and a commitment to building engaging interactive experiences.
