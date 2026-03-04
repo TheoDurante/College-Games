@@ -27,3 +27,11 @@ What You´ll Find:
 Purpose of This Repository:
 
 The purpose of this repository is to document my Academic Development, Demonstrate my technical capabilities, and showcase my passion for game development. It serves both as a learning archive and as a portfolio piece for recruiters. Each project reflects continous improvement, curiosity, and a commitment to building engaging interactive experiences.
+
+College Games Links:
+
+Shadow Slash: https://github.com/TheoDurante/Shadow-Slash
+
+54 Sallon: https://github.com/TheoDurante/54-Saloon
+
+Alem Da Coleira: https://github.com/TheoDurante/Alem-Da-Coleira
